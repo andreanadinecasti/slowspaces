@@ -87,7 +87,4 @@ My contributions are described in the attached recommendation letter from the re
 - **Meta Quest 3** (device used in testing)  
 - Research tools: interview scripts, recording, transcription, qualitative coding workflows
 
----
-
-## 🗂 Repository Structure (suggested)
 
